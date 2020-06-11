@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+  <ApplicationName>Exampwe Appwication</ApplicationName>
+  <ExampleNotice>This Appwication is an Exampwe of how to use the Waim.Wang cwass fow basic twanswation of dispway tags in .NyET appwications.  This has been tested in VB.NyET and C# WinFowms apps, howevew this has nyot been tested in Consowe ow WPF apps so cuvwage may vawy.</ExampleNotice>
+  <LanguageLabel>Wanguage:</LanguageLabel>
+  <RefreshButton>Wefwesh</RefreshButton>
+</Language>

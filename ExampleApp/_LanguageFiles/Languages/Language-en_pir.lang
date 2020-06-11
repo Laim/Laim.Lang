@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Language>
+  <ApplicationName>Example Application</ApplicationName>
+  <ExampleNotice>This Application be an Example o' how t' use th' Laim.Lang crew fer basic translation o' display tags in .NET applications.  This has been tested in VB.NET 'n C# WinForms apps, however this has nah been tested in Console or WPF apps so coverage may vary.</ExampleNotice>
+  <LanguageLabel>Language:</LanguageLabel>
+  <RefreshButton>Refresh</RefreshButton>
+</Language>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+  <ApplicationName>Exemple d’application</ApplicationName>
+  <ExampleNotice>Cette application est un exemple de la façon d’utiliser la classe Laim.Lang pour la traduction de base des balises d’affichage dans les applications .NET. Cela a été testé dans VB.NET et les applications WinForms, mais cela n’a pas été testé dans les applications Console ou WPF afin que la couverture peut varier.</ExampleNotice>
+  <LanguageLabel>Langue:</LanguageLabel>
+  <RefreshButton>Actualiser</RefreshButton>
+</Language>
